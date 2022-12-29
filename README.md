@@ -8,4 +8,3 @@
 Raynor723/Raynor723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![загадка1](https://user-images.githubusercontent.com/62475745/210006769-6bf6ac69-3afe-4764-b81e-9724f75702d8.jpg)
