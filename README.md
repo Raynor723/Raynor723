@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
--
+- https://docs.google.com/presentation/d/1Q9HyKQnbxB_mcgdUIXDSyHRM8rhDub_8/edit?usp=share_link&ouid=111020326028325210682&rtpof=true&sd=true
+- 
 <!---
 Raynor723/Raynor723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
