@@ -1,74 +1,81 @@
-|                | Warnzeichen      |   Verbotszeichen   |   Gebotszeichen   |   Rettungszeichen   | Brandschutzzeichen     |
-| -------------- | ---------------- | ------------------ | ----------------- | ------------------- | ---------------------- |
-|   Form         | Dreieck          | Kreis              | Kreis             | Rechteck / Quadrat  | Rechteck / Quadrat     |
-|   Hauptfarbe   | Gelb mit Schwarz | Weiß mit Rot       | Weiß mit Blau     | Weiß mit Grün       | Weiß mit Rot           |
+1))
+1. Schutz von persönlichen Daten
+In der Schule werden viele persönliche Daten gespeichert, zum Beispiel Namen, Noten und Adressen. IT-Sicherheit hilft, diese Daten zu schützen, damit sie nicht von fremden Personen gestohlen oder missbraucht werden.
+2. Sicherheit beim Lernen am Computer
+Viele Schüler benutzen Computer oder Tablets im Unterricht. Wenn die Geräte sicher sind, können sie ohne Angst vor Viren oder Hackern lernen und arbeiten.
+3. Verhindern von Cybermobbing und Betrug
+Gute IT-Sicherheit kann helfen, Cybermobbing und Schummeln zu verhindern. So bleibt die Schule ein sicherer Ort für alle.
+4. Schutz vor Hacker-Angriffen
+Ohne IT-Sicherheit können Hacker die Schulcomputer angreifen und wichtige Daten löschen oder stehlen. Sicherheit schützt davor.
+5. Verlässliche Technik im Unterricht
+Wenn die IT-Systeme gut geschützt sind, funktionieren Computer, WLAN und digitale Tafeln besser. So kann der Unterricht ohne Störungen ablaufen.
+6. Verantwortung lernen
+Mit IT-Sicherheit lernen Schüler, wie man sich im Internet richtig verhält. Sie verstehen, warum sichere Passwörter und Datenschutz wichtig sind.
+7. Schutz vor Viren und Schadprogrammen
+IT-Sicherheit sorgt dafür, dass keine gefährlichen Programme (wie Viren) auf die Schulcomputer kommen. Das schützt alle Geräte und spart Geld.
+2))
+Was ist ein ISMS?
+ISMS ist die Abkürzung für Informationssicherheits-Managementsystem.
+Ein ISMS ist ein Plan oder ein System, das hilft, Informationen sicher zu machen und zu schützen – zum Beispiel auf Computern oder in Netzwerken.
+Schulen, Firmen oder andere Organisationen nutzen ein ISMS, um Daten vor Diebstahl, Verlust oder falscher Nutzung zu schützen.
+Welche Ziele hat ein ISMS?
+Vertraulichkeit
+Nur die richtigen Personen dürfen auf bestimmte Daten zugreifen. Zum Beispiel dürfen nur Lehrer Noten sehen.
+Integrität
+Die Daten sollen richtig und unverändert bleiben. Es darf niemand heimlich etwas ändern.
+Verfügbarkeit
+Die Daten und Systeme sollen immer funktionieren, wenn man sie braucht. Zum Beispiel darf das Schulnetzwerk nicht ständig ausfallen.
 
-| Bedeutung                                               | ätzende Stoffen | Zutritt für unbefugte Personen verboten | Sammelstelle        | nicht mit Wasser löschen |
-| ------------------------------------------------------- | --------------- | --------------------------------------- | ------------------- | ------------------------ |
-| Warn-, Verbots-, Gebots-, Rettungs-, Brandschutzzeichen | Warnzeichen     | Verbotszeichen                          |   Rettungszeichen   |     Verbotszeichen       |
+Quellen für die Schaffung eines ISMS
+Wenn eine Schule oder Organisation ein ISMS aufbauen will, braucht sie gute Regeln und Tipps. In Deutschland hilft dabei besonders das BSI.
+Was ist das BSI?
+Das BSI ist das Bundesamt für Sicherheit in der Informationstechnik.
+Es ist eine staatliche Stelle, die Regeln und Empfehlungen für IT-Sicherheit gibt.
+Was ist das BSI-Kompendium?
+Das BSI-Kompendium (genauer: IT-Grundschutz-Kompendium) ist eine Sammlung von Texten und Anleitungen, die erklären,
+wie man Informationen gut schützt,
+welche Gefahren es gibt,
+und was man tun sollte, um sicher zu bleiben.
+Warum ist das BSI-Kompendium wichtig für ein ISMS?
+Es gibt konkrete Maßnahmen für den Schutz von Daten und Systemen.
+Es hilft dabei, ein sicheres ISMS Schritt für Schritt aufzubauen.
+Es ist kostenlos und öffentlich, jeder kann es nutzen – auch Schulen.
 
-|   Bedeutung                                                 |   Fluchtweg         |   Feuerlöscher / Feuerlöschgerät   |   Fußschutz benutzen   |   AED (Automatisierter Externer Defibrillator)   |
-| ----------------------------------------------------------- | ------------------- | ---------------------------------- | ---------------------- | ------------------------------------------------ |
-|   Warn-, Verbots-, Gebots-, Rettungs-, Brandschutzzeichen   |   Rettungszeichen   |   Brandschutzzeichen               |   Gebotszeichen        |   Gebotszeichen                                  |
+Bundesamt für Sicherheit in der Informationstechnik (BSI):
+IT-Grundschutz-Kompendium. Version 3.0, 2023.
+Verfügbar unter: https://www.bsi.bund.de/GrundschutzKompendium (Zugriff am 12.06.2025)
+Bundesamt für Sicherheit in der Informationstechnik (BSI):
+IT-Grundschutz-Profil für Schulen. 2022.
+Verfügbar unter: https://www.bsi.bund.de/Schule-Profil (Zugriff am 12.06.2025)
+Bundesamt für Sicherheit in der Informationstechnik (BSI):
+BSI-Standards und Empfehlungen zur Informationssicherheit. 2023.
+Verfügbar unter: https://www.bsi.bund.de/Standards (Zugriff am 12.06.2025)
 
+Was ist das Problem?
+E-Mails sind oft nicht sicher. Manchmal können andere Leute die E-Mails lesen, obwohl sie es nicht dürfen. Das ist schlecht, wenn es um persönliche Daten geht.
+Warum ist das wichtig?
+Schutz der Daten: Persönliche Informationen müssen geheim bleiben.
+Gesetz: Es gibt Regeln, die sagen, dass persönliche Daten gut geschützt werden müssen.
+Gefahr: Wenn die Daten nicht sicher sind, können sie verloren gehen oder falsch benutzt werden.
+Was kann man tun?
+Daten nur verschicken, wenn es unbedingt nötig ist.
+E-Mails mit wichtigen Daten verschlüsseln oder einen sicheren Weg benutzen, z.B. eine Schul-Cloud.
+Nur die Daten schicken, die wirklich gebraucht werden.
 
-Unfallverhütungsvorschriften
-                              Arbeitgeber werden verpflichtet, Betriebsräte und Sicherheitsfachkräfte einzustellen
-Gewerbeordnung
-Arbeitsstättenverordnung
-Produktsicherheitsgesetz
-/mit anderen wörten/
-Folgen
-Verletzten:
-- Schmerzen 
-- Einschränkung der
-  Berufstätigkeit
-- Einkommenverluste
-- Psychische Schäden
-- Soziale Störung bis hin
-  zum sozialer Abstieg
+Nur wichtige Daten schicken
+E-Mails verschlüsseln
+Sichere Programme nutzen
+Passwörter verwenden
+Empfänger genau prüfen
+Schulregeln beachten
+Keine E-Mail mit sensiblen Daten an viele Leute
+Regelmäßig informieren
 
-Betrieb
-- materielle Schäden 
-- Verlust der Arbeitskraft
-- Folgen für den Umsatz
-- Höhere Beiträge bei der Berufsgenossenschaft
-- Untergang der Firma
-
-für die Gesellschaft:
-- Weniger Arbeitskräfte für wachsende Aufgaben
-- Kosten für Behandlungen, Hilfsmittel und Arbeitsplatzanpassungen
-- Verlust von Investitionen in Ausbildung und Fortschritt
-- Höhere Belastung für Wirtschaft und soziale Systeme
-
-Prävent
-
-Regelmäßige Überprüfung
-
-Ursachen:
-technische
-- umngeprüfte, nicht zertifizierte Materialien, Maschinen und Geräte
-- schädliche Strahlungen z.B. bei Monitoren (Blaues Licht ist gefährlich)
-==> mangelhafte Geräte oder fehlende bzw. mangelhafte Schutzvorrichtungen
-
-Menschliche 
-
-Bewegungaunfälle
-
-- Stolpern, Stürzen, Rutschen
-
-- Gefahrenstellen
-- Gefährdungen suchen und bewerten
-- Wege frei halten
-- Wege sauber halten
-- ORDNUNG am ARBEITSPLATZ
-- Richtige Beleuchtung
-
-Routine/Unwissenheit
-
-- Eintönigkeit der Arbeit unterbrechen
-- Mangelne Kenntnisse über mögliche Gefährdungen
-
-- Arbeiten unterbrechen
-- Arbeitsinhalte ändern
-- Lehrgänge, Unterwiesungen, Belehrungen
+Man sendet nur die Daten, die wirklich notwendig sind, und nicht mehr.
+Man benutzt eine Verschlüsselung, damit niemand außer dem Empfänger die E-Mail lesen kann.
+Man verwendet sichere Programme oder spezielle Schulplattformen, um Daten zu teilen.
+Man schützt Dateien, die man per E-Mail schickt, mit einem Passwort und gibt das Passwort separat weiter, zum Beispiel telefonisch.
+Man überprüft genau, wer die E-Mail bekommt, damit sie nicht an die falsche Person geht.
+Man hält sich an die Regeln der Schule und an das Datenschutzgesetz.
+Man schickt keine persönlichen Daten an viele Leute gleichzeitig.
+Man sorgt dafür, dass Lehrer und Mitarbeiter regelmäßig lernen, wie man Daten sicher verschickt.
